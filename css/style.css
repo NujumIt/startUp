@@ -15697,6 +15697,7 @@ input[type="submit"].form-control:focus {
   padding: 0 35px;
   background: #f7f7f7;
   transition: all 0.3s;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .pricing-table .pt-column-header {
